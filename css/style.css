@@ -43,6 +43,11 @@ html, body {
 .floatleft {
   float: left;
 }
+.img{
+  height: 45px;
+  width: 200%;
+  background-color: white;
+}
 
 .floatright {
   float: right;
